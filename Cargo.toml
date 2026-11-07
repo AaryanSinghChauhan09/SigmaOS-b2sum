@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_b2sum"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS b2sum model"
+
+[lib]
+name = "sigmaos_b2sum"
+path = "src/lib.rs"
